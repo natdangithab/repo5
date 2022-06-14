@@ -1,0 +1,8 @@
+privet 1
+privet 2
+privet 3
+privet 4
+privet 5
+privet 6
+privet 7
+
